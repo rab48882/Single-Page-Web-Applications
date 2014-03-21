@@ -1,0 +1,12 @@
+/*
+ * spa.css
+ * Root namespace styles
+/*
+
+/** Begin reset */
+  *{
+      margin : 0;
+      padding : 0;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+  }
